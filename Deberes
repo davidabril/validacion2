@@ -1,0 +1,5 @@
+1 ) Hacer commit y push
+2 ) Añadimos php que falta o directorio
+3 ) Añadimos ejercicio2.js y lo configuramos con remote: php/...
+4 ) Ejecucion php, lo llevamos al directorio del apached diciendo que el dist lo guarde en /var/www
+5 ) Depurar php en xdebug
